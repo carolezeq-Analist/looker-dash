@@ -1,3 +1,3 @@
 # looker-dash
-data dashboard created on the Looker platform.
+Interactive dashboards created in Google Looker Studio including population and demographic analysis
 
